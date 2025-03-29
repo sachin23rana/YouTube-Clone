@@ -4,27 +4,27 @@ import { AiOutlineLike, AiOutlineDislike } from "react-icons/ai";
 
 const commentsList = [
   {
-    name: "Adil Nawaz",
+    name: "Sachin Rana",
     comment:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     replies: [
       {
-        name: "Adil Nawaz",
+        name: "Sachin Rana",
         comment:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         replies: [
           {
-            name: "Adil Nawaz",
+            name: "Sachin Rana",
             comment:
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             replies: [
               {
-                name: "Adil Nawaz",
+                name: "Sachin Rana",
                 comment:
                   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 replies: [
                   {
-                    name: "Adil Nawaz",
+                    name: "Sachin Rana",
                     comment:
                       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                     replies: [],
@@ -36,17 +36,17 @@ const commentsList = [
         ],
       },
       {
-        name: "Adil Nawaz",
+        name: "Sachin Rana",
         comment:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         replies: [
           {
-            name: "Adil Nawaz",
+            name: "Sachin Rana",
             comment:
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             replies: [
               {
-                name: "Adil Nawaz",
+                name: "Sachin Rana",
                 comment:
                   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 replies: [],
@@ -54,7 +54,7 @@ const commentsList = [
             ],
           },
           {
-            name: "Adil Nawaz",
+            name: "Sachin Rana",
             comment:
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             replies: [],
@@ -64,27 +64,27 @@ const commentsList = [
     ],
   },
   {
-    name: "Adil Nawaz",
+    name: "Sachin Rana",
     comment:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     replies: [
       {
-        name: "Adil Nawaz",
+        name: "Sachin Rana",
         comment:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         replies: [
           {
-            name: "Adil Nawaz",
+            name: "Sachin Rana",
             comment:
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             replies: [
               {
-                name: "Adil Nawaz",
+                name: "Sachin Rana",
                 comment:
                   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 replies: [
                   {
-                    name: "Adil Nawaz",
+                    name: "Sachin Rana",
                     comment:
                       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                     replies: [],
@@ -96,7 +96,7 @@ const commentsList = [
         ],
       },
       {
-        name: "Adil Nawaz",
+        name: "Sachin Rana",
         comment:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         replies: [],
@@ -104,17 +104,17 @@ const commentsList = [
     ],
   },
   {
-    name: "Adil Nawaz",
+    name: "Sachin Rana",
     comment:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     replies: [
       {
-        name: "Adil Nawaz",
+        name: "Sachin Rana",
         comment:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         replies: [
           {
-            name: "Adil Nawaz",
+            name: "Sachin Rana",
             comment:
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             replies: [],
@@ -125,12 +125,12 @@ const commentsList = [
   },
 
   {
-    name: "Adil Nawaz",
+    name: "Sachin Rana",
     comment:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     replies: [
       {
-        name: "Adil Nawaz",
+        name: "Sachin Rana",
         comment:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         replies: [],
@@ -138,18 +138,18 @@ const commentsList = [
     ],
   },
   {
-    name: "Adil Nawaz",
+    name: "Sachin Rana",
     comment:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     replies: [],
   },
   {
-    name: "Adil Nawaz",
+    name: "Sachin Rana",
     comment:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     replies: [
       {
-        name: "Adil Nawaz",
+        name: "Sachin Rana",
         comment:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         replies: [],
